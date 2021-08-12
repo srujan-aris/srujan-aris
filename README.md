@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Srujan Panuganti
+- 👀 I live Robotics
+- 🌱 I’m a software engineer at ARIS Technology LLC
